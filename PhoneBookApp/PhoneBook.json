@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "John Smith",
+    "Type": "Person",
+    "PhoneNumber": "123-456-7890",
+    "TextComments": "Friend",
+    "BirthDate": "01/15/1980"
+  },
+  {
+    "Name": "ABC Inc.",
+    "Type": "PublicOrganisation",
+    "PhoneNumber": "555-555-5555",
+    "RegistrationNumber": "12345"
+  },
+  {
+    "Name": "XYZ Ltd.",
+    "Type": "PrivateOrganisation",
+    "PhoneNumber": "999-999-9999",
+    "OwnerName": "Jane Doe"
+  },
+  {
+    "Name": "Alice Johnson",
+    "Type": "Person",
+    "PhoneNumber": "987-654-3210",
+    "TextComments": "Family",
+    "BirthDate": "05/20/1995"
+  },
+  {
+    "Name": "Acme Corp.",
+    "Type": "PublicOrganisation",
+    "PhoneNumber": "777-777-7777",
+    "RegistrationNumber": "54321"
+  }
+]
